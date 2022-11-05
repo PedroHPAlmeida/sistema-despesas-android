@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Despesas</string>
+    <string name="descricaoDespesa">Descrição da despesa</string>
+    <string name="valorDespesa">Valor</string>
+    <string name="dataDespesa">Data</string>
+    <string name="buttonCadastrar">Cadastrar</string>
+    <string name="buttonNovaDespesa">Nova despesa</string>
+</resources>
