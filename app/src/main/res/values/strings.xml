@@ -5,4 +5,7 @@
     <string name="dataDespesa">Data</string>
     <string name="buttonCadastrar">Cadastrar</string>
     <string name="buttonNovaDespesa">Nova despesa</string>
+    <string name="textViewDespesa">Despesa</string>
+    <string name="textViewValorDespesa">R$ </string>
+    <string name="tituloListaDespesas">Lista de Despesas</string>
 </resources>
